@@ -1,5 +1,5 @@
-# PythonicGeodynamics
-Set of Jupyter Notebooks inspired to the Textbook 
+# Pythonic Geodynamics
+Set of Jupyter Notebooks based on the Textbook 
 
 Pythonic Geodynamics
 Gabriele Morra
