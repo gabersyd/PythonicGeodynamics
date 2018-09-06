@@ -7,3 +7,5 @@ Gabriele Morra
 Lecture Notes in Geosciences
 
 Springer Verlag
+
+https://www.springer.com/us/book/9783319556802
